@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">白名单测试</string>
+
+    <!-- 启动管理文案  -->
+    <string name="dialog_open_white_list_error_title">跳转失败</string>
+    <string name="open_white_list_other_tips">由于Android系统限制，请您手动开启本软件自启动权限，并将此软件设置为受保护应用以及允许后台运行，防止被系统关闭</string>
+    <string name="open_white_list_samsung_tips">请在三星【智能管理器】->【自动运行应用程序】里面找到「划一划手势」并开启,防止被系统关闭</string>
+    <string name="samsung_open_white_list_failed">请打开【智能管理器】->【自动运行应用程序】里面找到「划一划手势」并开启,加入白名单中,否则设备进入睡眠后会自动杀掉应用进程</string>
+    <string name="huawei_open_white_list_failed">请打开【手机管家】->【应用启动管理】里面找到「划一划手势」,点击之后弹出【手动管理】窗口,选择「允许后台运行」和「允许自启动」</string>
+    <string name="flyme_open_white_list_failed">两种方法将应用加入白名单:\n1.找到【手机管家】->【权限管理】->【后台管理】里面找到「划一划手势」选择「允许后台运行」。\n2.打开【设置】->【应用管理】->【所有应用】->【划一划手势】->【权限管理】->【后台管理】选择「允许后台运行」。\n两种方法选择其中一种即可。</string>
+    <string name="vivo_open_white_list_failed">请按照以下步骤开启应用白名单:\n1.打开【i管家】点击【应用管理】依次打开【自启动管理】和【软件权限管理】找到「划一划手势」并开启选项。\n2.打开【设置】->【电池】->【后台高耗电】找到「划一划手势」并选择开启</string>
+    <string name="oppo_open_white_list_failed">请打开【设置】->【电池】->【其他】里面找到「划一划手势」点击关闭【后台冻结】和【异常时自动优化】</string>
+    <string name="miui_open_white_list_failed">请打开【设置】->【电量和性能】->【应用配置】找到「划一划手势」,后台配置选择「不限制」</string>
+    <string name="oneplus_open_white_list_failed">请打开【设置】->【应用】里面找到「划一划手势」->【电池用量】选择允许后台运行</string>
+    <string name="smartisan_open_white_list_failed">请按照以下步骤开启应用白名单:\n1.打开【设置】->【安全中心】->【内存清理】找到「划一划手势」并打开「后台常驻」\n2.在【安全中心】->【应用程序权限管理】->【后台自启动】里面找到「划一划手势」，并选择「始终允许」</string>
+    <string name="other_open_white_list_failed">应用白名单界面跳转失败,请自行前往【手机管家】、【安全管家】或【电池管理】中打开自启动和允许后台运行，将应用加入白名单</string>
+    <string name="main_dialog_ok">知道了</string>
+    <string name="main_dialog_setting">去设置</string>
+    <string name="main_dialog_cancel">取消</string>
+</resources>
